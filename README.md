@@ -1,4 +1,4 @@
-# GOMEZ Mini Project
+# GOZEM Mini Project
 
 Clone the repository, change directory into the project directory and install dependencies by running 
 
